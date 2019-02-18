@@ -14,7 +14,7 @@
   </parent>
   <groupId>me.ssoon</groupId>
   <artifactId>pet-clinic</artifactId>
-  <version>0.0.4</version>
+  <version>0.0.5-SNAPSHOT</version>
   <name>pet-clinic</name>
   <description>Pet Clinic Project</description>
 
@@ -69,7 +69,7 @@
 
   <scm>
     <developerConnection>scm:git:https://github.com/soohoonlee/pet-clinic.git</developerConnection>
-    <tag>pet-clinic-0.0.4</tag>
+    <tag>pet-clinic-0.0.3</tag>
   </scm>
 
 </project>
